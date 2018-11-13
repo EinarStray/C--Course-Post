@@ -10,6 +10,7 @@ namespace Post
     {
         static void Main(string[] args)
         {
+            //just for test
         }
     }
 }
