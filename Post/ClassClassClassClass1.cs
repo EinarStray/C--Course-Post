@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Post
 {
-    class Slayer
+    class ClassClassClassClass1
     {
-        //sdfdsfdsfdsfsdfdsfdsfdsfsfdsfsfsf
     }
 }
