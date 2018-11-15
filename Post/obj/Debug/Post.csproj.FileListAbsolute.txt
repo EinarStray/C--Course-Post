@@ -1,0 +1,7 @@
+O:\Projects\Post\C--Course-Post\Post\bin\Debug\Post.exe.config
+O:\Projects\Post\C--Course-Post\Post\bin\Debug\Post.exe
+O:\Projects\Post\C--Course-Post\Post\bin\Debug\Post.pdb
+O:\Projects\Post\C--Course-Post\Post\obj\Debug\Post.csprojAssemblyReference.cache
+O:\Projects\Post\C--Course-Post\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+O:\Projects\Post\C--Course-Post\Post\obj\Debug\Post.exe
+O:\Projects\Post\C--Course-Post\Post\obj\Debug\Post.pdb

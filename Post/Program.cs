@@ -12,6 +12,8 @@ namespace Post
         {
             //just for test
             //MetallicA \m/
+            int i = 10;
+            Console.WriteLine(i+i);
         }
     }
 }
