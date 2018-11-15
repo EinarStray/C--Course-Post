@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AAAAAAAAAAAAAAAAAA.cs" />
     <Compile Include="ClassClassClassClass1.cs" />
+    <Compile Include="MASTER.cs" />
     <Compile Include="MasterOfPuppets.cs" />
     <Compile Include="MMMMMMMMMMMMMMMMMMM.cs" />
     <Compile Include="Program.cs" />
